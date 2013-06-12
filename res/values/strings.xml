@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MilitaryCounterActivity!</string>
+    <string name="app_name">退伍計時器</string>
+    <string name="startdate">入伍日期</string>
+    <string name="duration">役期</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+    <string name="to">離退伍還有</string>
+    <string name="cong">恭喜退伍了!!</string>
+    <string name="inf">999</string>
+    <string name="day">天</string>
+    <string name="inf2">999999999</string>
+    <string name="sec">秒</string>
+    <string name="passed">經過了</string>
+    <string name="percent">%</string>
+    <string-array name="years">
+    	<item>0</item>
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    </string-array>
+    <string-array name="months">
+    	<item>0</item>
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    	<item>4</item>
+    	<item>5</item>
+    	<item>6</item>
+    	<item>7</item>
+    	<item>8</item>
+    	<item>9</item>
+    	<item>10</item>
+    	<item>11</item>
+    </string-array>
+    
+    <string-array name="discounts">
+    	<item>0</item>
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    	<item>4</item>
+    	<item>5</item>
+    	<item>6</item>
+    	<item>7</item>
+    	<item>8</item>
+    	<item>9</item>
+    	<item>10</item>
+    	<item>11</item>
+    	<item>12</item>
+    	<item>13</item>
+    	<item>14</item>
+    	<item>15</item>
+    	<item>16</item>
+    	<item>17</item>
+    	<item>18</item>
+    	<item>19</item>
+    	<item>20</item>
+    	<item>21</item>
+    	<item>22</item>
+    	<item>23</item>
+    	<item>24</item>
+    	<item>25</item>
+    	<item>26</item>
+    	<item>27</item>
+    	<item>28</item>
+    	<item>29</item>
+    	<item>30</item>
+    </string-array>
+    	<string name="to2">還有</string>
+    	<string name="ok">OK</string>
+    	<string name="discount">折抵</string>
+</resources>

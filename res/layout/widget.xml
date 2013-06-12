@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:orientation="vertical" android:layout_height="wrap_content">
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="wrap_content" android:orientation="horizontal" android:layout_weight="1" android:layout_height="wrap_content" android:layout_gravity="center">
+        <TextView android:layout_height="wrap_content" android:text="@string/inf" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:id="@+id/day"></TextView>
+        <TextView android:layout_height="wrap_content" android:text="@string/day" android:id="@+id/textView2" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content"></TextView>
+    </LinearLayout>
+    <ProgressBar android:layout_height="wrap_content" android:layout_width="wrap_content" style="?android:attr/progressBarStyleHorizontal" android:progress="0" android:id="@+id/progress"></ProgressBar>
+    
+</LinearLayout>
